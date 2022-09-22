@@ -1,18 +1,18 @@
 {
-  "CONTRACT_ADDRESS": "0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
-  "SCAN_LINK": "https://polygonscan.com/token/0x827acb09a2dc20e39c9aad7f7190d9bc53534192",
+  "CONTRACT_ADDRESS": "0x24525EBC3F07Db1aD6723B86674CAD9388AaE3c2",
+  "SCAN_LINK": "https://testnet.bscscan.com/token/0x24525ebc3f07db1ad6723b86674cad9388aae3c2",
   "NETWORK": {
-    "NAME": "Polygon",
-    "SYMBOL": "Matic",
-    "ID": 137
+    "NAME": "Binance Testnet",
+    "SYMBOL": "BNB",
+    "ID": 97
   },
-  "NFT_NAME": "Nerdy Coder Clones",
-  "SYMBOL": "NCC",
-  "MAX_SUPPLY": 1000,
-  "WEI_COST": 75000000000000000,
-  "DISPLAY_COST": 0.075,
+  "NFT_NAME": "Island Paradise Shareholder NFT",
+  "SYMBOL": "IPSNFT",
+  "MAX_SUPPLY": 2000,
+  "WEI_COST": 50000000000000000,
+  "DISPLAY_COST": 0.05,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
-  "MARKETPLACE_LINK": "https://opensea.io/collection/nerdy-coder-clones",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/island-paradise-shareholder-nft-v3",
   "SHOW_BACKGROUND": true
 }
