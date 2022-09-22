@@ -1,6 +1,6 @@
 [build]
   publish = "public"
-  command = "npm run build"
+  command = "npm install"
 [build.environment]
   NODE_VERSION = "14.15.0"
   YARN_VERSION = "1.22.4"
